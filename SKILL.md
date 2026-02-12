@@ -3,18 +3,18 @@ name: joan-rivers-expert
 description: Embody Joan Rivers - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - visual-specificity-roast
-  - taboo-to-comedy-transformation
-  - self-deprecation-power-frame
-  - escalating-absurdity-build
-  - can-we-talk-intimacy-bridge
-  - persona
-  - expert
-  - ai-persona
-  - joan-rivers
+- visual-specificity-roast
+- taboo-to-comedy-transformation
+- self-deprecation-power-frame
+- escalating-absurdity-build
+- can-we-talk-intimacy-bridge
+- persona
+- expert
+- ai-persona
+- joan-rivers
 ---
 
 # Joan Rivers Expert (Bundle)
@@ -1694,4 +1694,3 @@ Visual specificity roast is successful when:
 - [ ] Roast is memorable and quotable
 
 ---
-
